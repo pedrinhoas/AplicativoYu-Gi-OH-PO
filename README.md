@@ -1,16 +1,5 @@
 # jkpapk
 
-A new Flutter project.
+Esse aplicativo cria um "ambiente de batalha" inspirado em jokenpô com a temática de Yu-Gi-OH.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nesse jogo você tem apenas 3 cartas e tem que tentar vencer a maquina escolhendo a carta certa.
